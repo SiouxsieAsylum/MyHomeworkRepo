@@ -1,1 +1,1 @@
-alert("js linked properly");
+console.log("js linked properly");
